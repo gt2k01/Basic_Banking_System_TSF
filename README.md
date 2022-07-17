@@ -1,1 +1,4 @@
-# Basic_Banking_System_TSF
+# Basic Banking System
+This is my implementation of Basic Banking System for GRIPJULY22 session of The Sparks Foundation Internship.
+I have used HTML, CSS, JS for frontend and PHP for backend and MySQL for database.
+The connection among them is done using XAMPP server.
